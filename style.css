@@ -1,3 +1,8 @@
 body {
     background-image: url(https://assets.awwwards.com/awards/images/2015/04/pattern.jpg);
 } 
+
+.contactPageHeader {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
