@@ -1,7 +1,9 @@
 .navbar {
     background-color: #4d3b69;
 }
-
+.card {
+    border: none;
+}
 .contactPageHeader {
     margin-top: 20px;
     margin-bottom: 20px;
