@@ -1,5 +1,6 @@
 .navbar {
-    background-color: #4d3b69;
+  background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+  background: linear-gradient(59deg, #3A6073, #16222A);
 }
 .card {
     border: none;
@@ -14,20 +15,27 @@
     text-align: center;
 }
 body {
-    position: relative;
+    /*position: relative;*/
+    /* min-height: 100vh;
+    overflow: auto; */
     min-height: 100vh;
-    overflow: auto;
 }
 .img {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.mainfooter {
+/*  width: 100%; */
+  /* position: absolute; */
+/*  bottom: 0; */
+  /*left: 0;*/
 }
 footer {
     background: #16222A;
     background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
     background: linear-gradient(59deg, #3A6073, #16222A);
     color: white;
-    margin-top:100px;
+    margin-top: 50px;
   }
   
   footer a {
